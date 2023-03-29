@@ -14,7 +14,7 @@ My research activity concerns Artificial Intelligence and in particular Natural 
 * 🌍  I'm based in Italy
 * 🔭 I’m currently working on Multimodal Deep Learning for Natural Language Processing 
 * ✉️  You can contact me at [e.mancini@unibo.it](mailto:e.mancini@unibo.it)
-* 🖥️  See my academic website at [hwww.unibo.it/sitoweb/e.mancini](https://www.unibo.it/sitoweb/e.mancini/en)
+* 🖥️  See my academic website at [www.unibo.it/sitoweb/e.mancini](https://www.unibo.it/sitoweb/e.mancini/en)
 
 <!--
 **helemanc/helemanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

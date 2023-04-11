@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-I'm a PhD student in Computer Science and Engineering at [Univeristy of Bologna](https://www.unibo.it/en/homepage). I'm part of the [Language Technologies Lab](https://site.unibo.it/nlp/en) at University of Bologna.
+I'm a PhD student in Computer Science and Engineering at [University of Bologna](https://www.unibo.it/en/homepage). I'm part of the [Language Technologies Lab](https://site.unibo.it/nlp/en) at University of Bologna.
 My research activity concerns Artificial Intelligence and in particular Natural Language Processing, Argument Mining, Multimodal Deep Learning, eXplainable AI and Speech Recognition.
 
 * 🌍  I'm based in Italy

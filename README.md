@@ -9,7 +9,7 @@
 </p>
 
 I'm a PhD student in Computer Science and Engineering at [University of Bologna](https://www.unibo.it/en/homepage). I'm part of the [Language Technologies Lab](https://site.unibo.it/nlp/en) at University of Bologna.
-My research activity concerns Artificial Intelligence and in particular Natural Language Processing, Argument Mining, Multimodal Deep Learning, eXplainable AI and Speech Recognition.
+My research activity concerns multimodal deep learning and interpretability, with a focus on speech processing and multimodal data.
 
 * 🌍  I'm based in Italy
 * 🔭 I’m currently working on Multimodal Deep Learning for Natural Language Processing 

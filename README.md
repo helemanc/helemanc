@@ -1,23 +1,44 @@
-# Hi there 👋 I'm Eleonora Mancini
-### PhD in Computer Science and Engineering - Artificial Intelligence 
+# 🎶 Hi there, I'm **Eleonora Mancini** 👋  
+### PhD Candidate in Computer Science & Engineering 
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+I am a PhD candidate at the University of Bologna, working in the [Language Technologies Lab](https://site.unibo.it/nlp/en).  
+My research focuses on **multimodal deep learning**, **language & speech & audio & music modeling**, and **explainability**, with the broader goal of understanding how AI interprets **human expressive signals** such as voice, language, and musical performance.
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
+### 🧠 Research Interests
+- **Multimodal AI for Human Expression** (speech × text × music)
+- **Speech & paralinguistic signal modeling**
+- **Multimodal Argument Mining & political discourse analysis**
+- **AI for clinical assessment & decision support**
+- **Music Information Retrieval & creative AI**
+- **Explainable & perceptually-grounded model interpretation**
 
-I'm a PhD student in Computer Science and Engineering at [University of Bologna](https://www.unibo.it/en/homepage). I'm part of the [Language Technologies Lab](https://site.unibo.it/nlp/en) at University of Bologna.
-My research activity concerns multimodal deep learning and interpretability, with a focus on speech processing and multimodal data.
+### 🔬 Research Experience
+- **Visiting Researcher · Sony AI Barcelona**  
+  Adapted large speech–language models to the music domain for **musical version identification** and **audio-based lyrics representation**.
+  
+- **Visiting Researcher · Mila / Québec AI Institute (SpeechBrain Lab)**  
+  Benchmarked explainability techniques for speech-based **Parkinson’s and depression detection**, and developed **listenable explanations** grounded in human perception.
 
-* 🌍  I'm based in Italy
-* 🔭 I’m currently working on Multimodal Deep Learning for Natural Language Processing 
-* ✉️  You can contact me at [e.mancini@unibo.it](mailto:e.mancini@unibo.it)
-* 🖥️  See my academic website at [www.unibo.it/sitoweb/e.mancini](https://www.unibo.it/sitoweb/e.mancini/en)
+### 🎓 PhD Dissertation (in progress)
+**_“Multimodal AI for Human Expression Understanding”_**  
+Investigating how multimodal signals convey meaning across **political**, **clinical**, and **musical** communication settings.
 
-<!--
-**helemanc/helemanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
+### 🔗 Connect with me
+| Platform | Link |
+|--------|------|
+| 🌐 Website | https://helemanc.github.io |
+| 💼 LinkedIn | https://www.linkedin.com/in/eleonora-mancini/ |
+| 🏛️ UniBo Page | https://www.unibo.it/sitoweb/e.mancini/en |
+| ✉️ Email | e.mancini@unibo.it |
 
+---
 
+### 🧰 Tools & Frameworks
+Python · PyTorch · SpeechBrain · Hugging Face · NumPy  
+Large-scale training on HPC clusters (Compute Canada, CINECA Leonardo, UniBo HPC)
+
+---
+
+I love projects where **science meets human expression** — especially **AI + music + voice**.  

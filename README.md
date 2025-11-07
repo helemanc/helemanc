@@ -1,4 +1,4 @@
-# 🎶 Hi there, I'm **Eleonora Mancini** 👋  
+# Hi there, I'm **Eleonora Mancini** 👋  
 ### PhD Candidate in Computer Science & Engineering 
 
 I am a PhD candidate at the University of Bologna, working in the [Language Technologies Lab](https://site.unibo.it/nlp/en).  

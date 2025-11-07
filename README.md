@@ -17,7 +17,7 @@ My research focuses on **multimodal deep learning**, **language & speech & audio
   Adapted large speech–language models to the music domain for **musical version identification** and **audio-based lyrics representation**.
   
 - **Visiting Researcher · Mila / Québec AI Institute (SpeechBrain Lab)**  
-  Benchmarked explainability techniques for speech-based **Parkinson’s and depression detection**, and developed **listenable explanations** grounded in human perception.
+  Benchmarked explainability techniques for speech-based **Parkinson’s and depression detection**, and developed **high-quality listenable explanations** grounded in human perception.
 
 ### 🎓 PhD Dissertation (in progress)
 **_“Multimodal AI for Human Expression Understanding”_**  

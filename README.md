@@ -40,5 +40,3 @@ Python · PyTorch · SpeechBrain · Hugging Face · NumPy
 Large-scale training on HPC clusters (Compute Canada, CINECA Leonardo, UniBo HPC)
 
 ---
-
-I love projects where **science meets human expression** — especially **AI + music + voice**.  
